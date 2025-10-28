@@ -51,6 +51,11 @@ Miro · Figma · Notion
 ![inDrive User Flow] (https://miro.com/app/board/uXjVJ4hw_rs=/?share_link_id=301013005854)
 
 ---
+## 🎥 Presentation Deck
+View the full presentation deck here:  
+➡️ [Google Slides Presentation][(https://docs.google.com/document/d/1MPguYqc66zc4QDSCwhE0RGTahnI1Qh6YDc--I51NgPo/edit?usp=sharing)
+
+---
 
 ## 💬 About This Project
 This user flow demonstrates how a simple ride-booking experience can be broken into structured steps to improve user experience, minimize confusion, and guide future product enhancements.
